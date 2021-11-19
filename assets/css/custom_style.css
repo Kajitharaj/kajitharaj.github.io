@@ -16,10 +16,12 @@
     width: 10.9%;
     margin-bottom: 3px!important;
     background-color: #fff;
-    border: 1px solid #eee;
+    border: 1px solid #067ded;
     display: inline-block;
     font-size: 10px;
     padding:0;
+    margin: 2px;
+    border-radius: 12px;
 }
 
 .sidebar-social i {
